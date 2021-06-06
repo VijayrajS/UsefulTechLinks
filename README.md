@@ -9,4 +9,4 @@
 
 ## Hardware
 
-* ( {Keyboards} A Beginner’s Guide to Switches)[https://www.theremingoat.com/blog/beginners-guide]
+* *Keyboards*: (A Beginner’s Guide to Switches)[https://www.theremingoat.com/blog/beginners-guide]
