@@ -3,6 +3,7 @@
 ## General
 
 * [Top 10 GitHub Repos To Bookmark Right Now](https://towardsdatascience.com/top-10-github-repos-to-bookmark-right-now-b0bc62436ffc)
+* *(Design Patterns)* : [How to wrongly apply design patterns](https://medium.com/young-coder/is-it-time-to-get-over-design-patterns-8851864a6834)
 ## Python
 
 * [3 Tools to Track and Visualize the Execution of your Python Code](https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e)
