@@ -13,3 +13,4 @@
 ## Hardware
 
 * *Keyboards*: [A Beginner’s Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
+* [Work from home setups](https://hk.asiatatler.com/life/wfh-productivity-desk-setup)
