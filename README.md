@@ -14,3 +14,4 @@
 
 * *Keyboards*: [A Beginner’s Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
 * [Work from home setups](https://hk.asiatatler.com/life/wfh-productivity-desk-setup)
+* [Useful Mac Apps](https://www.macworld.com/article/226525/free-mac-apps-every-mac-user-should-have.html)
