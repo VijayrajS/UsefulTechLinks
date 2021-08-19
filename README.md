@@ -11,6 +11,9 @@
 * *Python 3.8* : [Walrus operator](https://realpython.com/lessons/assignment-expressions)
 * *Python 3.10* : [Match statements](https://www.python.org/dev/peps/pep-0622/#syntax) 
 
+## Miscellaneous frameworks
+* *Vertx*: [Asynchronous Programming in Vertx: Callbacks, Futures, and Coroutines](https://dzone.com/articles/three-paradigms-of-asynchronous-programming-in-ver)
+
 ## Hardware
 
 * *Keyboards*: [A Beginner’s Guide to Switches](https://www.theremingoat.com/blog/beginners-guide)
