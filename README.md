@@ -12,7 +12,7 @@
 * *Python 3.10* : [Match statements](https://www.python.org/dev/peps/pep-0622/#syntax) 
 
 ## Miscellaneous frameworks
-* *Vertx*: [Asynchronous Programming in Vertx: Callbacks, Futures, and Coroutines](https://dzone.com/articles/three-paradigms-of-asynchronous-programming-in-ver)
+* *Vertx* : [Asynchronous Programming in Vertx: Callbacks, Futures, and Coroutines](https://dzone.com/articles/three-paradigms-of-asynchronous-programming-in-ver)
 
 ## Hardware
 
