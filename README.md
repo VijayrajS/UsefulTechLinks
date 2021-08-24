@@ -13,6 +13,7 @@
 
 ## Miscellaneous frameworks
 * *Vertx* : [Asynchronous Programming in Vertx: Callbacks, Futures, and Coroutines](https://dzone.com/articles/three-paradigms-of-asynchronous-programming-in-ver)
+* *Vertx* : [Future Composition](https://dev.to/cherrychain/future-composition-in-vert-x-3gp8)
 
 ## Hardware
 
