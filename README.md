@@ -6,6 +6,7 @@
 * *(Design Patterns)* : [How to wrongly apply design patterns](https://medium.com/young-coder/is-it-time-to-get-over-design-patterns-8851864a6834)
 * *(Datasets)* : [Top 10 Platforms To Get Free and Good Quality Datasets](https://dzone.com/articles/top-10-platforms-to-get-free-good-quality-datasets)
 * *(MacOS)* [Useful Mac Apps](https://www.macworld.com/article/226525/free-mac-apps-every-mac-user-should-have.html)
+* [50 CLI tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
 
 * [FB Production Engineer prep](https://medium.com/@abhishekmane747/facebook-production-engineer-internship-interview-preparation-resources-7ead84c6450c)
 * [Product Engineer vs SWE](https://carlo-bertuccini.medium.com/stop-hiring-software-engineers-8545520437ac)
